@@ -1,7 +1,7 @@
 # Unity URP - Blurred UI Material
 
-## Can not get blurred/translucent UI elements working?
-## This is simple, modified UI shader that blurs geometry.
+#### Can not get blurred/translucent UI elements working?
+#### This is simple, modified UI shader that blurs geometry.
 
 **Note**:
 *-Objects are blured without post processing applied to them.
