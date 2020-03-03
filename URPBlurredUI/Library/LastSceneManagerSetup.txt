@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Demo/Scenes/Demo.unity
+- path: Assets/Blur/Other/OtherTest.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

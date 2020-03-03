@@ -45,7 +45,7 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets\Demo\Scripts\SimpleCameraController.cs" />
+     <Compile Include="Assets\Blur\Other\BlurGrabPass.cs" />
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMPro.cginc" />
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile Overlay.shader" />
      <None Include="Assets\Blur\UI-Blur.shader" />
@@ -66,58 +66,58 @@
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile.shader" />
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_Sprite.shader" />
  <Reference Include="Unity.RenderPipeline.Universal.ShaderLibrary">
- <HintPath>D:/Unity Projects/Github/Public/UnityURP-BlurredUI-ShaderGraph/URPBlurredUI/Library/ScriptAssemblies/Unity.RenderPipeline.Universal.ShaderLibrary.dll</HintPath>
+ <HintPath>D:/Unity Projects/Github/Public/UnityURP-BlurredUI/URPBlurredUI/Library/ScriptAssemblies/Unity.RenderPipeline.Universal.ShaderLibrary.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Timeline.Editor">
- <HintPath>D:/Unity Projects/Github/Public/UnityURP-BlurredUI-ShaderGraph/URPBlurredUI/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+ <HintPath>D:/Unity Projects/Github/Public/UnityURP-BlurredUI/URPBlurredUI/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.RenderPipelines.Universal.Shaders">
- <HintPath>D:/Unity Projects/Github/Public/UnityURP-BlurredUI-ShaderGraph/URPBlurredUI/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Shaders.dll</HintPath>
+ <HintPath>D:/Unity Projects/Github/Public/UnityURP-BlurredUI/URPBlurredUI/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Shaders.dll</HintPath>
  </Reference>
  <Reference Include="Unity.VSCode.Editor">
- <HintPath>D:/Unity Projects/Github/Public/UnityURP-BlurredUI-ShaderGraph/URPBlurredUI/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+ <HintPath>D:/Unity Projects/Github/Public/UnityURP-BlurredUI/URPBlurredUI/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.RenderPipelines.Core.Editor">
- <HintPath>D:/Unity Projects/Github/Public/UnityURP-BlurredUI-ShaderGraph/URPBlurredUI/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Editor.dll</HintPath>
+ <HintPath>D:/Unity Projects/Github/Public/UnityURP-BlurredUI/URPBlurredUI/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.RenderPipelines.Core.Runtime">
- <HintPath>D:/Unity Projects/Github/Public/UnityURP-BlurredUI-ShaderGraph/URPBlurredUI/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Runtime.dll</HintPath>
+ <HintPath>D:/Unity Projects/Github/Public/UnityURP-BlurredUI/URPBlurredUI/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Runtime.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>D:/Unity Projects/Github/Public/UnityURP-BlurredUI-ShaderGraph/URPBlurredUI/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>D:/Unity Projects/Github/Public/UnityURP-BlurredUI/URPBlurredUI/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.RenderPipelines.Universal.Runtime">
- <HintPath>D:/Unity Projects/Github/Public/UnityURP-BlurredUI-ShaderGraph/URPBlurredUI/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Runtime.dll</HintPath>
+ <HintPath>D:/Unity Projects/Github/Public/UnityURP-BlurredUI/URPBlurredUI/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Runtime.dll</HintPath>
  </Reference>
  <Reference Include="Unity.RenderPipelines.Universal.Editor">
- <HintPath>D:/Unity Projects/Github/Public/UnityURP-BlurredUI-ShaderGraph/URPBlurredUI/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Editor.dll</HintPath>
+ <HintPath>D:/Unity Projects/Github/Public/UnityURP-BlurredUI/URPBlurredUI/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
- <HintPath>D:/Unity Projects/Github/Public/UnityURP-BlurredUI-ShaderGraph/URPBlurredUI/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+ <HintPath>D:/Unity Projects/Github/Public/UnityURP-BlurredUI/URPBlurredUI/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Timeline">
- <HintPath>D:/Unity Projects/Github/Public/UnityURP-BlurredUI-ShaderGraph/URPBlurredUI/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+ <HintPath>D:/Unity Projects/Github/Public/UnityURP-BlurredUI/URPBlurredUI/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
  </Reference>
  <Reference Include="Unity.CollabProxy.Editor">
- <HintPath>D:/Unity Projects/Github/Public/UnityURP-BlurredUI-ShaderGraph/URPBlurredUI/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+ <HintPath>D:/Unity Projects/Github/Public/UnityURP-BlurredUI/URPBlurredUI/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Rider.Editor">
- <HintPath>D:/Unity Projects/Github/Public/UnityURP-BlurredUI-ShaderGraph/URPBlurredUI/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+ <HintPath>D:/Unity Projects/Github/Public/UnityURP-BlurredUI/URPBlurredUI/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary">
- <HintPath>D:/Unity Projects/Github/Public/UnityURP-BlurredUI-ShaderGraph/URPBlurredUI/Library/ScriptAssemblies/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll</HintPath>
+ <HintPath>D:/Unity Projects/Github/Public/UnityURP-BlurredUI/URPBlurredUI/Library/ScriptAssemblies/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll</HintPath>
  </Reference>
  <Reference Include="Unity.ShaderGraph.Editor">
- <HintPath>D:/Unity Projects/Github/Public/UnityURP-BlurredUI-ShaderGraph/URPBlurredUI/Library/ScriptAssemblies/Unity.ShaderGraph.Editor.dll</HintPath>
+ <HintPath>D:/Unity Projects/Github/Public/UnityURP-BlurredUI/URPBlurredUI/Library/ScriptAssemblies/Unity.ShaderGraph.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.RenderPipelines.Core.ShaderLibrary">
- <HintPath>D:/Unity Projects/Github/Public/UnityURP-BlurredUI-ShaderGraph/URPBlurredUI/Library/ScriptAssemblies/Unity.RenderPipelines.Core.ShaderLibrary.dll</HintPath>
+ <HintPath>D:/Unity Projects/Github/Public/UnityURP-BlurredUI/URPBlurredUI/Library/ScriptAssemblies/Unity.RenderPipelines.Core.ShaderLibrary.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>D:/Unity Projects/Github/Public/UnityURP-BlurredUI-ShaderGraph/URPBlurredUI/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>D:/Unity Projects/Github/Public/UnityURP-BlurredUI/URPBlurredUI/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.UI">
- <HintPath>D:/Unity Projects/Github/Public/UnityURP-BlurredUI-ShaderGraph/URPBlurredUI/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+ <HintPath>D:/Unity Projects/Github/Public/UnityURP-BlurredUI/URPBlurredUI/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine">
  <HintPath>C:/Program Files/Unity Editors/2019.3.3f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
