@@ -10,5 +10,5 @@
 <br>
 *-Objects are blured without post processing applied to them.*
 <br>
-*-This shader ignores transparent objects and can not stack, meaning it can not blur UI underneath it.*
+*-This shader ignores transparent objects and can not stack, meaning it can not blur UI or text underneath it.*
 ##### *These functionalities might be added later.*
