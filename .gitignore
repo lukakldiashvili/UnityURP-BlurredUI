@@ -1,1 +1,9 @@
 /URPBlurredUI/.vscode
+/URPBlurredUI/Assets
+/URPBlurredUI/Library
+/URPBlurredUI/Logs
+/URPBlurredUI/obj
+/URPBlurredUI/Packages
+/URPBlurredUI/Project Settings
+/URPBlurredUI/Assembly-CSharp.csproj
+/URPBlurredUI/URPBlurredUI.sln
