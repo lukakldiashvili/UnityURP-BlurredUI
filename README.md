@@ -1,3 +1,6 @@
+### * This branch represent an archive of old versions of this repository. Using it is not advised.
+<br>
+
 # Unity URP - Blurred UI Material
 
 <img src="https://i.imgur.com/3aZTWGY.png" alt="Demo" width="500">
